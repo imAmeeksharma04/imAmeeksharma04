@@ -1,4 +1,4 @@
-
+![logo](https://github.com/imAmeeksharma04/imAmeeksharma04/blob/main/cc980976-f9ef-46a6-9245-40181bb7ff22.png)
 <h1 align="center">Hi 👋, I'm Ameek Sharma</h1>
 <h3 align="center">A passionate student from India. Still learning, focusing and applying knowledge into real-time projects.</h3>
 <img align="right" alt="coded" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"></img>
